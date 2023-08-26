@@ -1,0 +1,66 @@
+.heading{
+    width: 100%;
+    font-size: xx-large;
+    font-family: 'Yatra One', cursive;
+    margin-top:-1px;
+    background-color: #4A4A48;
+    color:aliceblue;
+}
+.heading:hover{
+    color: aliceblue;
+}
+body{
+    background-color: #F1F2EB;
+    color: black;
+}
+.one{
+    background-color: #566246;
+}
+h3{
+    background-color: #D8DAD3;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.one{
+    font-family: 'Preahvihear', sans-serif;
+    width: 90%;
+}
+.on{
+    margin-top:-360;
+    margin-left:-300;
+}
+.to{
+    margin-top:-360;
+    margin-left:-300;
+}
+.te{
+    margin-top:-360;
+    margin-left:-300;
+}
+#nigga{
+    height: 400px;
+    margin-right:30%;
+}
+#fugga{
+    width: 400px;
+}
+.fo{
+    margin-top:-360;
+    margin-left:-300;
+}
+.fi{
+    margin-top:-360;
+    margin-left:-300;
+}
+.copy_right_footer{
+    background-color: #A4C2A5;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Creepster', cursive;
+    font-size: 20px;
+     }
+.winner{
+    background-color: #f89736;
+ }
